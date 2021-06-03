@@ -19,7 +19,8 @@ class Application
     end
     
       else
-        resp.write 
+        resp.write "Route not found"
+        resp.status = 
       
     
     
